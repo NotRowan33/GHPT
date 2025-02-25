@@ -58,3 +58,17 @@ footer {
   margin-top: 40px;
   padding: 10px;
 }
+/* Instagram Logo in the top right */
+.instagram-logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 40px; /* Adjust size */
+  color: black;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.instagram-logo:hover {
+  transform: scale(1.1); /* Slight zoom effect */
+  color: #E1306C; /* Instagram color when hovered */
+}
