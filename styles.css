@@ -61,8 +61,8 @@ footer {
 /* Instagram Icon in Top-Right Corner */
 .instagram-link {
   position: absolute;
-  top: 1px;
-  right: 1px;
+  top: 20px;
+  right: 20px;
   font-size: 40px; /* Adjust icon size */
   color: black; /* Default black icon */
   text-decoration: none;
