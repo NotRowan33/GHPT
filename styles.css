@@ -58,18 +58,18 @@ footer {
   margin-top: 40px;
   padding: 10px;
 }
-/* Instagram Icon */
+/* Instagram Icon in Top-Right Corner */
 .instagram-link {
   position: absolute;
   top: 20px;
   right: 20px;
-  font-size: 40px; /* Adjust size */
-  color: black;
+  font-size: 40px; /* Adjust icon size */
+  color: black; /* Default black icon */
   text-decoration: none;
   transition: transform 0.3s ease, color 0.3s ease;
 }
 
 .instagram-link:hover {
   transform: scale(1.1); /* Slight zoom effect */
-  color: #333; /* Darker black when hovered */
+  color: #333; /* Darker black on hover */
 }
